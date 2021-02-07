@@ -550,11 +550,11 @@ body {
 
 .service-img {
   width: 80%;
-  margin: 35px 0 0 35px;
+  margin: 35px 0 0 37px;
 }
 
 .service-img_second {
-  margin: 35px 0 0 35px;
+  margin: 35px 0 0 37px;
 }
 
 .service-content_inner {
@@ -564,11 +564,11 @@ body {
   width: 80%;
   padding: 5% 5%;
   box-sizing: border-box;
-  margin: 0 0 0 35px;
+  margin: 0 0 0 37px;
 }
 
 .service-content_inner-second {
-  margin: 0px 0 0 35px;
+  margin: 0px 0 0 37px;
 
 }
 
@@ -592,7 +592,8 @@ body {
 }
 
 .top-footer .header-logo {
-  margin-left: 35%;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 
